@@ -53,5 +53,5 @@ article {
 h1 {
   background: url(../images/logo.png) no-repeat center;
   border-radius: 64px;
-  box-shadow: 3px 3px 3px black;
+  filter: drop-shadow(3px 3px 3px black);
 }
